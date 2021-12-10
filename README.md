@@ -5,4 +5,4 @@ Like a flowchart, rule-based chatbots map out conversations. They do this in ant
 #
 I have create a simple rule based chatbot which is hardcoded with keyword based queries. It takes decisions based on these queries. When it receives an input, it tries to match it with the different tags present in the model. Variations in the input patterns are also coded into the model. Once it finds the match, it sends an appropriate reply corresponding to the tag.
 #
- The chatbot can't answer any questions outside of the defined rules. These chatbots do not learn through interactions. Also, they only perform and work with the scenarios you train them for.
+ The chatbot can't answer any questions outside of the defined rules. These chatbots do not learn through interactions. Also, they only perform and work with the scenarios you train them for, therefore can only be used for very specific small scale applications.
